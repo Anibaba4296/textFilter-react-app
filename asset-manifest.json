@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/textFilter-react-app/static/css/main.87d21716.css",
+    "main.js": "/textFilter-react-app/static/js/main.f920fde7.js",
+    "static/js/787.322744e9.chunk.js": "/textFilter-react-app/static/js/787.322744e9.chunk.js",
+    "index.html": "/textFilter-react-app/index.html",
+    "main.87d21716.css.map": "/textFilter-react-app/static/css/main.87d21716.css.map",
+    "main.f920fde7.js.map": "/textFilter-react-app/static/js/main.f920fde7.js.map",
+    "787.322744e9.chunk.js.map": "/textFilter-react-app/static/js/787.322744e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87d21716.css",
+    "static/js/main.f920fde7.js"
+  ]
+}
